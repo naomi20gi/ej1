@@ -24,9 +24,11 @@ width: 100%;
 article {
 	width: 30%;
 	height: auto;
+	display: inline-block;
 	margin: 0 auto;
 	padding: 12px;
 	background: rgba(255,0,0,.9);
+	vertical-align: top;
 }
 img{
 	width: 100%;
