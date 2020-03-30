@@ -10,7 +10,7 @@ body{
 	height: 1000px;
 	margin: 0 auto;
 	padding: 12px;
-	background: rgba(255,255,255,.9);
+	
 
 }
 #pinturas {
@@ -22,12 +22,13 @@ body{
 
 }
 article {
-	width: 30%;
+	width: 31%;
 	height: auto;
 	display: inline-block;
 	margin: 0 auto;
 	padding: 12px;
 	vertical-align: top;
+	background: rgba(255,255,255,.9);
 }
 img{
 	width: 100%;
@@ -50,7 +51,7 @@ h2{
 p{
 	font-family: 'Playfair Display', serif;
 	font-size: 12px;
-	
+	vertical-align: justify;
 
 
 }
