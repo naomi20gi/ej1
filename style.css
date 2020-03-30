@@ -22,7 +22,7 @@ body{
 
 }
 article {
-	width: 30%;
+	width: 15%;
 	height: auto;
 	display: inline-block;
 	margin: 0 auto;
@@ -38,7 +38,6 @@ img{
 
 }
 article{ 
-	width: 15%
 	display: inline-block;
  }
 h2{
