@@ -32,7 +32,8 @@ article {
 	
 }
 section{
-	marfin: 0 auto;
+	margin: 0 auto;
+}
  p{
 	font-family: 'Playfair Display', serif;
 	font-size: 12px;
@@ -61,7 +62,6 @@ img{
 }
 .tagline{
 
-}
 
  }
 h2{
