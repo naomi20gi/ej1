@@ -22,10 +22,10 @@ body{
 
 }
 article {
-	width: 31%;
+	width: 28.5%;
 	height: auto;
 	display: inline-block;
-	margin: 12px auto;
+	margin: 0 auto;
 	padding: 12px;
 	vertical-align: top;
 	background: rgba(255,255,255,.9);
@@ -50,6 +50,8 @@ width: 100%;
 footer{
 	background: rgba(255,255,255,.9);
 	width: 100;
+	margin: 0 auto;
+	padding: 12px;
 }
 img{
 	width: 100%;
