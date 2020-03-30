@@ -29,6 +29,27 @@ article {
 	padding: 12px;
 	vertical-align: top;
 	background: rgba(255,255,255,.9);
+	vertical-align: justify;
+}
+section{
+	marfin: 0 auto;
+ p{
+	font-family: 'Playfair Display', serif;
+	font-size: 12px;
+	
+
+
+}
+
+header{
+background: rgba(255,255,255,.9);
+width: 100%;
+
+
+}
+footer{
+	background: rgba(255,255,255,.9);
+	width: 100;
 }
 img{
 	width: 100%;
@@ -38,8 +59,7 @@ img{
 .tagline{
 
 }
-article{ 
-	display: inline-block;
+
  }
 h2{
 	font-family: 'Playfair Display', serif;
