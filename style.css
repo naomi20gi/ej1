@@ -29,7 +29,7 @@ article {
 	padding: 12px;
 	vertical-align: top;
 	background: rgba(255,255,255,.9);
-	vertical-align: justify;
+	
 }
 section{
 	marfin: 0 auto;
@@ -57,7 +57,7 @@ footer{
 img{
 	width: 100%;
 	max-width: 100%;
-	border-radius: 50%;
+	border-radius: 55%;
 }
 .tagline{
 
