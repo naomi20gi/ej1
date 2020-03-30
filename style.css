@@ -27,7 +27,7 @@ article {
 	display: inline-block;
 	padding: 12px;
 	vertical-align: top;
-	background: rgba(255,255,255,.9);
+	background: rgba(255,255,255,.3);
 	
 }
 section{
@@ -43,13 +43,13 @@ section{
 }
 
 header{
-background: rgba(255,255,255,.9);
+background: rgba(255,255,255,.3);
 width: 100%;
 
 
 }
 footer{
-	background: rgba(255,255,255,.9);
+	background: rgba(255,255,255,.3);
 	width: 100;
 	margin: 0 auto;
 	padding: 12px;
